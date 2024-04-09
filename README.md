@@ -1,7 +1,7 @@
 # Zoutendijks_Method_Attack
-The implementation and experiments are based on Python3.11 and Pytorch. 
+The implementation and experiments are based on Python3.11 and PyTorch. 
 ### Requirements
-- pytorch
+- PyTorch
 - torchvision
 - numpy
 - matplotlib
